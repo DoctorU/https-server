@@ -33,3 +33,16 @@ Stop the https-server running with `CTRL-C`.
 * It runs the http-server module in https mode using the certificates.
 * When you stop the server, the script automatically deletes the `tmp` folder.
 
+## What do you think?
+
+I like this repo because it solved a niggling problem I had. 
+
+Do you like it? Is it a good idea? Do you have a suggestion to improve it?
+
+Star the repo.
+
+Raise issues. I'll get back to them when I can.
+
+Thanks,
+
+DoctorU.
